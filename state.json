@@ -1,6 +1,8 @@
 {
-  "background": "#f6f8f7",
+  "background": "#d9eddc",
   "posts": [],
   "categories": [],
-  "requests": {}
+  "requests": {
+    "eduba-green-20261023": "9246b74463509ffd4b3d711242bf8074a230a6d02d0207cb868c8443b0779856"
+  }
 }
