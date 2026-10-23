@@ -1,8 +1,16 @@
 {
-  "background": "#d9eddc",
-  "posts": [],
+  "background": "#cce8d0",
+  "posts": [
+    {
+      "slug": "meeting-notes",
+      "title": "Meeting notes practice",
+      "text": "Fictional automation practice. This sample uses invented meeting notes and contains no client data or claimed business results."
+    }
+  ],
   "categories": [],
   "requests": {
-    "eduba-green-20261023": "9246b74463509ffd4b3d711242bf8074a230a6d02d0207cb868c8443b0779856"
+    "eduba-green-20261023": "9246b74463509ffd4b3d711242bf8074a230a6d02d0207cb868c8443b0779856",
+    "eduba-green-safe-20261023": "a2001f659d7093df4ba6d0e695e3f9dd3b1b5fb09511a90d0a39b93a5da74b22",
+    "eduba-blog-20261023": "15b0138eb85ddc28ed693c3546fba1118c9afa267ffd08d32c28170ec12d8929"
   }
 }
