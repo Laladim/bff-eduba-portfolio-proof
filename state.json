@@ -1,5 +1,5 @@
 {
-  "background": "#cce8d0",
+  "background": "#f6f8f7",
   "posts": [
     {
       "slug": "meeting-notes",
@@ -17,6 +17,7 @@
     "eduba-green-20261023": "9246b74463509ffd4b3d711242bf8074a230a6d02d0207cb868c8443b0779856",
     "eduba-green-safe-20261023": "a2001f659d7093df4ba6d0e695e3f9dd3b1b5fb09511a90d0a39b93a5da74b22",
     "eduba-blog-20261023": "15b0138eb85ddc28ed693c3546fba1118c9afa267ffd08d32c28170ec12d8929",
-    "eduba-category-20261023": "ce9ef69827f3a9c83c14c77a0efeee8eebef8328903845df91a0fb368ed579b4"
+    "eduba-category-20261023": "ce9ef69827f3a9c83c14c77a0efeee8eebef8328903845df91a0fb368ed579b4",
+    "eduba-restore-20261023": "260e77d297663201d5a25274644de98e145d2f62d13f5c0a3ea448137f611bdc"
   }
 }
